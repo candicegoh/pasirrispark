@@ -1,0 +1,22 @@
+body {
+  background-color: darkslategrey;
+}
+h1 {
+  color: darkseagreen;
+  text-align:center; 
+  font-size: 60px;
+}
+h2 {
+	color: lemonchiffon;
+	text-align:center;
+	font-size: 55px;
+}	
+p {
+  color: darkseagreen;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
